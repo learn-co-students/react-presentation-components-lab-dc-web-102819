@@ -10,4 +10,4 @@ ReactDOM.render(
     <SimplerComponent handleClick={undefined} />
   </div>,
   document.getElementById('root')
-);
+); 
